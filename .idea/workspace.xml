@@ -17,12 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="11fdbdec-c606-4970-8f78-b74cb5d7826f">
-    <option name="files">
-      <option value="code_1.ipynb" />
-      <option value="code_2.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="11fdbdec-c606-4970-8f78-b74cb5d7826f" />
   <component name="ProjectId" id="228j7GSHNHJo9P1Czr6XRAV0zVd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Proiect/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,10 +46,24 @@
       <option name="presentableId" value="Default" />
       <updated>1639225938655</updated>
       <workItem from="1639225940954" duration="1268000" />
+      <workItem from="1639268815881" duration="641000" />
+      <workItem from="1639310010468" duration="639000" />
+      <workItem from="1639323517988" duration="1386000" />
+      <workItem from="1639594881226" duration="1195000" />
+      <workItem from="1639672058035" duration="1196000" />
+      <workItem from="1639744166254" duration="1190000" />
+      <workItem from="1639782332291" duration="630000" />
+      <workItem from="1639832114742" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="91" key="FileChooserDialogImpl" timestamp="1639832171598">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1639832171598" />
   </component>
 </project>
